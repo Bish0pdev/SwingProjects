@@ -1,0 +1,1 @@
+This is a template project to get future me up in running with JFRAME faster. nothing more. I may make updates to this as time goes on adding more convenience features
